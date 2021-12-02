@@ -19,6 +19,7 @@
 
     <script type="text/javascript">
         var i=0;
+        i=1;
         var timer=null;
         window.onload=function () {
             var btnObj=document.getElementById("timed");
