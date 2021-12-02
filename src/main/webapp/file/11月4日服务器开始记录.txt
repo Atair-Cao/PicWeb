@@ -1,0 +1,10 @@
+先用现成的模板创建Maven-Webapp项目
+注意这一步要使用本地的maven不要用联网的maven
+然后再src目录下创建java目录（唯一source root）、
+然后再往里面塞包
+比如com.myapp.webapplication
+
+Myweb工程目录
+注意一定要：！！！在idea里面先package再重新部署到服务器上
+
+我们的本机地址是192.168.137.1
